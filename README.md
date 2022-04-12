@@ -1,0 +1,1 @@
+# dot_env_config_in_django
